@@ -455,7 +455,7 @@ copies or substantial portions of the Software.
 - **Documentation**: See `docs/` folder for detailed guides
 - **Issues**: Report bugs on [GitHub Issues](https://github.com/yourusername/shooting-dashboard/issues)
 - **Discussions**: Ask questions in [GitHub Discussions](https://github.com/yourusername/shooting-dashboard/discussions)
-- **Email**: your.email@example.com
+- **Email**: apwork26@gmail.com
 
 ---
 
