@@ -1,0 +1,22 @@
+# NRAI Shooting Analysis Dashboard - Dependencies
+# Python 3.8 or higher required
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF Processing
+pdfplumber>=0.10.0
+
+# Web Dashboard
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.17.0
+
+# Utilities
+python-dateutil>=2.8.2
+openpyxl>=3.1.0
+
+# Optional but recommended
+pillow>=10.0.0
